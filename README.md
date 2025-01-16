@@ -7,7 +7,7 @@ Hier findest du Links zu Büchern, Online-Kursen, Tutorials und Open-Source-Proj
 ## 📖 Bücher & Dokumentationen
 - [Das Swift Handbuch – Thomas Sillmann](https://www.amazon.de/dp/xyz/)  
 - [Swift Language Guide (offizielle Doku)](https://swift.org/documentation/)
-- [Apple Developer Documentation](https://developer.apple.com/documentation/)  
+- [Apple Developer Documentation (offizielle Doku)](https://developer.apple.com/documentation/)  
 
 ## 🎓 Online-Kurse & Tutorials
 - [Udemy – App-Entwicklung mit Swift 5 für iOS 15 - inkl. SwiftUI 2](https://www.udemy.com/course/erstelle-mit-swift-5-deine-eigenen-apps-inkl-swiftui)
